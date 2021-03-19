@@ -1,0 +1,1 @@
+# adonisjs_api_hs
